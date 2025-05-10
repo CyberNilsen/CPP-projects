@@ -1,1 +1,6 @@
-#include <iostream> // Inneholder funksjoner for input og output dette er altså også en header fil
+#include <iostream> // funksjoner for input og output.
+
+int main() {
+    std::cout << "Hello world!";
+    return 0;
+}
