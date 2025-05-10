@@ -1,0 +1,1 @@
+#include <iostream> // Inneholder funksjoner for input og output dette er altså også en header fil
