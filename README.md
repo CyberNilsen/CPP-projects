@@ -1,6 +1,6 @@
 # CPP-projects
 
-CPP-projects is a personal collection of simple and educational C++ programs created by **CyberNilsen**. These small projects are designed to explore and learn various C++ concepts, such as classes, input/output, randomness, and basic object-oriented programming.
+CPP-projects is a personal collection of simple and educational C++ programs. These small projects are designed to explore and learn various C++ concepts, such as classes, input/output, randomness, and basic object-oriented programming.
 
 ![C++ Banner](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)
 
