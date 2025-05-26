@@ -31,3 +31,7 @@ Your classic first C++ program. Prints “Hello, world!” to the console — a 
    ```bash
    g++ bank.cpp -o bank.exe
    ./bank.exe
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
